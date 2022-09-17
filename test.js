@@ -13,5 +13,5 @@ function sum(...args) {
     return
 
 }
-
+alert('欢迎您!');
 sum(1,2,3)
