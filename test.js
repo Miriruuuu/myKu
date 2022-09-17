@@ -13,3 +13,5 @@ function sum(...args) {
     return
 
 }
+
+sum(1,2,3)
