@@ -14,4 +14,6 @@ function sum(...args) {
 
 }
 alert('欢迎您!');
-sum(1,2,3)
+sum(1, 2, 3)
+
+console.log('进行了一次改动');
